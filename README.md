@@ -1,8 +1,6 @@
-# RSSResources TEST
-
-1.https://www.oschina.net/blog/rss
-2.https://dq.yam.com/rss.php
-3.https://feed.iplaysoft.com/
-4.https://sspai.com/feed
-5.https://36kr.com/feed
-6.https://www.qiushibaike.com/hot/rss
+* https://www.oschina.net/blog/rss
+* https://dq.yam.com/rss.php
+* https://feed.iplaysoft.com/
+* https://sspai.com/feed
+* https://36kr.com/feed
+* https://www.qiushibaike.com/hot/rss
