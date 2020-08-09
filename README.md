@@ -1,5 +1,6 @@
 # RSSResources TEST
 
 ---
-url: https://www.qiushibaike.com/hot/rss 
+keyA: valueA
+keyB: valueB
 ---
