@@ -1,9 +1,8 @@
 # RSSResources TEST
 
-Title:    A Sample MultiMarkdown Document  
-Author:   Fletcher T. Penney  
-Date:     February 9, 2011  
-Comment:  This is a comment intended to demonstrate  
-          metadata that spans multiple lines, yet  
-          is treated as a single value.  
-CSS:      http://example.com/standard.css
+1.https://www.oschina.net/blog/rss
+2.https://dq.yam.com/rss.php
+3.https://feed.iplaysoft.com/
+4.https://sspai.com/feed
+5.https://36kr.com/feed
+6.https://www.qiushibaike.com/hot/rss
